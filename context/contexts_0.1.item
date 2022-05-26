@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_P85ucNzZEeycZeXowLyUkw" name="Default">
+  <contextParameter xmi:id="_P9jOsNzZEeycZeXowLyUkw" comment="" name="tempFile" prompt="tempFile?" promptNeeded="false" type="id_File" value="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/MAIN_ASSIGNMENT/Success/tempFile.csv"/>
+  <contextParameter xmi:id="_P9jOsdzZEeycZeXowLyUkw" comment="" name="salesRejectedData" prompt="salesRejectedData?" promptNeeded="false" type="id_File" value="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/MAIN_ASSIGNMENT/Rejects/salesRejectedData.csv"/>
+  <contextParameter xmi:id="_P9jOstzZEeycZeXowLyUkw" comment="" name="salesFilteredData" prompt="salesFilteredData?" promptNeeded="false" type="id_File" value="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/MAIN_ASSIGNMENT/Success/salesFilteredData.csv"/>
+  <contextParameter xmi:id="_P9jOs9zZEeycZeXowLyUkw" comment="" name="orderPriority_ML" prompt="orderPriority_ML?" promptNeeded="false" type="id_File" value="C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace\MAIN_ASSIGNMENT\Success\orderPriority_ML.csv"/>
+  <contextParameter xmi:id="_P9jOtNzZEeycZeXowLyUkw" comment="" name="orderPriority_HC" prompt="orderPriority_HC?" promptNeeded="false" type="id_File" value="C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace\MAIN_ASSIGNMENT\Success\orderPriority_HC.csv"/>
+  <contextParameter xmi:id="_P9jOtdzZEeycZeXowLyUkw" comment="" name="joinFilteredData" prompt="joinFilteredData?" promptNeeded="false" type="id_File" value="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/MAIN_ASSIGNMENT/Success/joinFilteredData.csv"/>
+  <contextParameter xmi:id="_P9jOttzZEeycZeXowLyUkw" comment="" name="inputFile2" prompt="inputFile2?" promptNeeded="false" type="id_File" value="C:/Users/labyadav/Desktop/HU IE/Week4/ETL Main Assignment/lookup.csv"/>
+  <contextParameter xmi:id="_P9jOt9zZEeycZeXowLyUkw" comment="" name="inputFile1" prompt="inputFile1?" promptNeeded="false" type="id_File" value="C:/Users/labyadav/Desktop/HU IE/Week4/ETL Main Assignment/Sales data (Clean).csv"/>
+  <contextParameter xmi:id="_P9jOuNzZEeycZeXowLyUkw" comment="" name="filteredReject" prompt="filteredReject?" promptNeeded="false" type="id_File" value="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/MAIN_ASSIGNMENT/Rejects/filteredRejectedData.csv"/>
+</talendfile:ContextType>
